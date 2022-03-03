@@ -78,7 +78,7 @@ public class Hexapawn {
     private int wins, losses;
 
     /**
-     * Returns 1 if x equals y, 0 otherwise.  This is to assist in
+     * Returns -1 if x equals y, 0 otherwise.  This is to assist in
      * emulating the "MITS BASIC" feature where an equal test apparently
      * returns 0 or -1.
      */
